@@ -16,12 +16,10 @@ This repository contains everything needed to analyse and visualise bike sales p
 
 ## Data Preparation  
 Key steps performed:
-
 - Cleaned missing values and validated numeric fields  
-- Standardised column names  
-- Converted dates into usable formats (Year, Month, Day fields)  
-- Created demographic groupings (Age Group, Customer Gender)  
-- Exported a tidy CSV for BI tools
+- Standardised column names
+- Converted dates into usable formats (Year, Month, Day fields)
+- Created demographic groupings (Age Group, Customer Gender)
 
 ---
 
@@ -83,7 +81,7 @@ This helps identify which age groups drive the highest sales value and overall p
 
 ## Skills Demonstrated  
 
-### **Data Analytics & Cleaning**
+### **Data Analytics and Cleaning**
 - Data cleansing, validation, and transformation  
 - Creating calculated fields (Year, Month, Age Group)  
 
