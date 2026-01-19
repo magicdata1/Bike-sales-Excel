@@ -66,7 +66,7 @@ This helps identify which age groups drive the highest sales value and overall p
 
 ---
 
-## Business Insights (Brief)
+## Business Insights
 
 - Adults (35–64) buy the most bikes and generate the highest revenue. They are the main target market.
 - Young Adults (25–34) also buy a lot and show strong growth potential in the future.
